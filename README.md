@@ -3,12 +3,13 @@ Protoflight is a passive rocket that have different parts to distribute the forc
 
 <img width="260" height="854" alt="image" src="https://github.com/user-attachments/assets/be73df70-330c-4d8e-b46d-42a64e3c423c" />
 
-you have 3 modulkes in the rocket
+you have 3 modules in the rocket
 
 1.- the shock absorber fo the ejection chargue
 
 <img width="745" height="472" alt="image" src="https://github.com/user-attachments/assets/52494503-62df-49ad-9755-823755081847" />
- this part absorbe the impacto fo teh ejection cargue
+
+ this part absorb the impact of the ejection chargue
 
  2.- the altimeter support
 
@@ -18,7 +19,7 @@ you have 3 modulkes in the rocket
 
 <img width="508" height="595" alt="image" src="https://github.com/user-attachments/assets/09f198b1-bcf8-4632-b7b5-4ba635abba25" />
 
-absorb the impact of the ejection cargue and protect the egg in the fall
+absorb the impact of the ejection chargue and protect the egg in the fall
 
 th rocket have 2 principal parts joined by a thread
 
