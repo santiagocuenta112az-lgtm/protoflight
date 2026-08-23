@@ -1,5 +1,5 @@
 # protoflight
-Protoflight is a passive rocket that have different parts to distribute the forces and the mass changing the order of the modules
+Protoflight is a passive-modular rocket that have different parts to distribute the forces and the mass changing the order of the modules
 
 <img width="260" height="854" alt="image" src="https://github.com/user-attachments/assets/be73df70-330c-4d8e-b46d-42a64e3c423c" />
 
