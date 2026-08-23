@@ -28,3 +28,7 @@ th rocket have 2 principal parts joined by a thread
 the rocket have 3 fins 
 
 <img width="669" height="756" alt="image" src="https://github.com/user-attachments/assets/d129e924-51ff-4008-b12e-0c4c0b4cf375" />
+
+the ojive of the rocket are not designed for me, this the 3d model
+
+https://www.thingiverse.com/thing:5673177
