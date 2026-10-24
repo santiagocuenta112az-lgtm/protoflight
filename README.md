@@ -13,7 +13,7 @@ you have 3 modules in the rocket
 
  2.- the altimeter support
 
- <img width="345" height="452" alt="image" src="https://github.com/user-attachments/assets/8076217d-0e2a-4f02-8300-9b2da4029660" />
+<img width="646" height="528" alt="image" src="https://github.com/user-attachments/assets/69544e01-db72-40ac-a5eb-45d8c2c6a532" />
 
 3.- the egg support
 
